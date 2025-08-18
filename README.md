@@ -5,8 +5,10 @@ This repository contains all tasks, projects, and learning outcomes from my inte
 ---
 
 ## 📂 Repository Structure  
-- `Task_01/` → Data cleaning and preprocessing  
-- `Task_02/` → Exploratory Data Analysis (EDA)  
+- `Task_01/` → Titanic Exploratory Data Analysis
+- `Task_02/` → Customer Segmentation Using RFM Analysis  
+- `Task_03/` → 
+- `Task_04/` → 
 - `docs/` → Notes and documentation  
 
 ---
