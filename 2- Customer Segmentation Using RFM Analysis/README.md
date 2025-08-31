@@ -37,14 +37,12 @@ Before segmentation, we explored the dataset with different visualizations:
 
 ## 📌 Customer Segments  
 Customers are segmented based on their RFM score, e.g.:  
+|       Segment       | Count
+|---------------------|------
 |Loyal Customers      | 1302
-|---------------------|------
 |Potential Loyalist   |  919
-|---------------------|------
 |Needs Attention      |  908
-|---------------------|------
 |Champions            |  838
-|---------------------|------
 |Others               |  371
 
 ---
