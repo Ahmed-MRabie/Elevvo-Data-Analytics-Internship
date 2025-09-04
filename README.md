@@ -8,25 +8,30 @@ This repository contains all tasks, projects, and learning outcomes from my inte
 - `Task_01/` → Titanic Exploratory Data Analysis
 - `Task_02/` → Customer Segmentation Using RFM Analysis  
 - `Task_03/` → Superstore Sales Analysis (Power BI)
-- `Task_04/` → 
+- `Task_04/` → Brazilian E-Commerce Olist Pipeline 
 - `docs/` → Notes and documentation  
 
 ---
 
 ## 📑 Tasks Progress  
 
-| Level   | Task # | Task Title                                 | Completion Date | Used Tools                              |
-|---------|--------|--------------------------------------------|-----------------|-----------------------------------------|
-| 1       | 2      | Titanic Exploratory Data Analysis          | 11 August 2025  | Python, Pandas, Seaborn, Matplotlib     |
-| 2       | 3      | Customer Segmentation Using RFM Analysis   | 18 August 2025  | Python, Pandas, Seaborn                 |
-| 3       | 8      | Superstore Sales Analysis (Power BI)       | 30 August 2025  | Python, Power BI                        |
+| Level         | Task # | Task Title                                 | Completion Date | Used Tools                              |
+|---------------|--------|--------------------------------------------|-----------------|-----------------------------------------|
+| 1             | 2      | Titanic Exploratory Data Analysis          | 11 August 2025  | Python, Pandas, Seaborn, Matplotlib     |
+| 2             | 3      | Customer Segmentation Using RFM Analysis   | 18 August 2025  | Python, Pandas, Seaborn                 |
+| 3             | 8      | Superstore Sales Analysis (Power BI)       | 30 August 2025  | Python, Power BI                        |
+|Industry Level | 9      | Brazilian E-Commerce Olist Pipeline        | 03 September 2025| Docker, MinIO, Spark, Postgres, Airflow, Power BI |
 
 ---
 
 ## 🚀 Tools & Technologies  
 - Python (Pandas, NumPy, Matplotlib, Seaborn)  
 - Jupyter Notebook  
-- SQL  
+- Docker
+- MinIO
+- Apache Spark
+- Apache Airflow
+- Postgres
 - Power BI  
 
 ---

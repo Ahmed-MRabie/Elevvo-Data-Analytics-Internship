@@ -1,0 +1,3 @@
+-- Active: 1754079631037@@127.0.0.1@5432@admin
+CREATE DATABASE olist_dwh;
+
