@@ -69,9 +69,13 @@ This ensures reproducibility, scheduling, and monitoring of the entire pipeline.
 - 🛒 **Products & Payments** → Revenue by product category, top 10 products, payment methods & installments  
 - 🚚 **Delivery & Reviews** → Shipping performance, delivery delays, on-time vs delayed orders, customer reviews over time  
 
- ![Dashboard - Olist Overview](./images/Olist_Overview.png)  
- ![Dashboard - Sales Overview](./images/Seles_Overview.png)  
+## 🖼️ Olist Overview
+ ![Dashboard - Olist Overview](./images/Olist_Overview.png) 
+## 📈 Sales Overview
+ ![Dashboard - Sales Overview](./images/Seles_Overview.png) 
+## 🛒 Product Overview
  ![Dashboard - Product Overview](./images/Product_Overview.png)  
+## 🚚 Delivery & Reviews
  ![Dashboard - Delivery & Reviews](./images/Delivery_Reviews.png)  
 
 ---
