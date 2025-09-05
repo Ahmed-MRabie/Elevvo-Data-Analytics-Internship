@@ -50,7 +50,7 @@ Data preparation is done in **Python**, and an **interactive Power BI dashboard*
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard Preview](./dashboard/dashboard.png)
+  ![Dashboard Preview](./dashboard/dashboard.PNG)
 
 ---
 
